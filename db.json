@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "title": "PIQUÉ POLO",
+      "id": "1",
+      "price": "80",
+      "description": "Often mere details make all the difference. This should be kept in mind when choosing a polo shirt, where details determine success, as A|X knows well.",
+      "color": "Navy Blue",
+      "size": "S",
+      "image": "https://www.armaniexchange.com/46/46745768TX_14_r.jpg"
+    },
+    {
+      "title": "PACKABLE PUFFER DOWN JACKET",
+      "id": "2",
+      "price": "120",
+      "description": "Winter and padded jackets go together like A|X and casual style: the ultimate cold weather essential now comes in a super-lightweight model that provides full warmth thanks to the genuine duck feather padding.",
+      "color": "Grey",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/34/34880275PB_14_f.jpg"
+    },
+    {
+      "title": "PATTERNED POLO",
+      "id": "3",
+      "price": "70",
+      "description": "You need the right polo shirt to immediately achieve an impeccable look. This Armani Exchange item knows all the tricks, so you can put it on and be on your way.",
+      "color": "Dark Blue",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46755392UJ_14_f.jpg"
+    },
+    {
+      "title": "POLO WITH LOGO LETTERING",
+      "id": "4",
+      "price": "75",
+      "description": "Is a polo shirt all you need for a perfect look from morning to night? That depends on the polo shirt in question — if it’s an A|X organic-cotton piqué style, then the answer is a resounding yes.",
+      "color": "Midnight Blue",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46740648XI_14_f.jpg"
+    },
+    {
+      "title": "PRINTED POLO WITH LOGO",
+      "id": "5",
+      "price": "80",
+      "description": "Get ready to fall in love at first sight and never let go. This Armani Exchange cotton piqué polo shirt stands out thanks to an oversized back print.",
+      "color": "White",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46737805FB_14_f.jpg"
+    },
+    {
+      "title": "SLIM FIT COTTON POLO",
+      "id": "6",
+      "price": "55",
+      "description": "Following fashion without getting carried away is above all a question of personal taste. With A|X, there’s no risk of putting the wrong foot forward: as proof, just take this minimal and essential slim fit polo shirt. Why change a winning formula?",
+      "color": "Sky Blue",
+      "size": "S",
+      "image": "https://www.armaniexchange.com/46/46750129UP_14_f.jpg"
+    },
+    {
+      "title": "SOLID COLORED POLO",
+      "id": "7",
+      "price": "70",
+      "description": "The keywords ‘heritage’ and ‘simplicity’ perfectly describe this understated, solid colored polo shirt. This masterpiece strikes the perfect balance between the desire to stand out and the need to do so with unparalleled sophistication.",
+      "color": "Navy Blue",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46749005SF_14_f.jpg"
+    },
+    {
+      "title": "POLO WITH LOGO LETTERING",
+      "id": "8",
+      "price": "55",
+      "description": "Man: noun, singular. The vocabulary of casual A|X fashion is spoken by everyone. It’s as easy to understand as this solid colored polo shirt with contrasting logo.",
+      "color": "Dark Blue",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46749464PB_14_f.jpg"
+    },
+    {
+      "title": "SLIM FIT T-SHIRT",
+      "id": "9",
+      "price": "55",
+      "description": "If you’re looking for a sure thing, this slim fit t-shirt featuring an oversized, acid-colored logo defies fleeting market trends, allowing even the most demanding fashionistas to sleep soundly..",
+      "color": "Dark Green",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46734440DP_14_f.jpg"
+    },
+    {
+      "title": "SLIM FIT T-SHIRT",
+      "id": "10",
+      "price": "55",
+      "description": "You need the right polo shirt to immediately achieve an impeccable look. This Armani Exchange item knows all the tricks, so you can put it on and be on your way.",
+      "color": "Light Yellow",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46740947CV_14_f.jpg"
+    },
+    {
+      "title": "SLIM FIT T-SHIRT",
+      "id": "11",
+      "price": "60",
+      "description": "You need the right polo shirt to immediately achieve an impeccable look. This Armani Exchange item knows all the tricks, so you can put it on and be on your way.",
+      "color": "Black",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46737106JC_14_f.jpg"
+    },
+    {
+      "title": "REGULAR FIT T-SHIRT",
+      "id": "12",
+      "price": "60",
+      "description": "Can a t-shirt become the symbol of relaxation and leisure time? Yes, if it’s made by A|X with a combination of cool, laidback features.",
+      "color": "Black",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46735709VM_14_f.jpg"
+    },
+    {
+      "title": "REGULAR FIT T-SHIRT",
+      "id": "13",
+      "price": "70",
+      "description": "If you’re looking for a sure thing, this regular fit t-shirt defies fleeting market trends – even the most demanding trendsetters fall comfortably back on this. Sometimes, essential is all you need.",
+      "color": "White",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46735703AM_14_f.jpg"
+    },
+    {
+      "title": "REGULAR FIT ICON LOGO T-SHIRT",
+      "id": "14",
+      "price": "50",
+      "description": "With a cut worthy of a high-quality tailored garment, A|X applies the same knowledge and precision to this pure cotton t-shirt. This style is designed with volumes measured to the millimetre, making it impossible to resist",
+      "color": "Black 1",
+      "size": "M",
+      "image": "https://www.armaniexchange.com/46/46720808EP_14_f.jpg"
+    }
+  ],
+
+  "admin": {
+    "email": "admin.com",
+    "password": "admin"
+  }
+}
